@@ -6,5 +6,5 @@ Algoritmo Hotle
 	aumento=950;
 	Escribir "cuantas noches se hospedo? "
 	Leer dia
-escribir "El monto total del hospedaje es de: ", hospedaje+aumento*dia
+escribir "El monto total del hospedaje es de: ", hospedaje+aumento*(dia-1)
 FinAlgoritmo
