@@ -9,6 +9,6 @@ begin
  writeln('¿cuantos dias se quedo parce?');
  readln(dia);
  
- writeln('costo total es de: ',hospedaje+aumento*dia);
+ writeln('costo total es de: ',hospedaje+aumento*(dia-1));
 
 end. 
